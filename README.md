@@ -1,0 +1,1 @@
+ncp-calculator is a tool that allows astronomers to calculate the location of the north celestial pole on a given decimal year. This tool is intended to be used for historical and archaeological purposes as well as recreative and demonstrative purposes.
